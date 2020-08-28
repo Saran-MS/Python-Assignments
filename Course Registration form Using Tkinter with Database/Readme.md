@@ -1,4 +1,4 @@
-<h1>Course Registration Form using Tkinter</h1>
+<h1>Course Registration Form using Tkinter, Python Mega Widgets , wxPython </h1>
 
 Create a course registration form containing all possible widgets using various GUI’slike Tkinter, Tk Interface eXtensions (Tix), Python MegaWidgets (PMW) and Tile/Ttk. Also create a DB and a table for maintaining the course registration details.<br/>
 
